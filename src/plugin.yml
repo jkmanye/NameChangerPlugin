@@ -1,0 +1,9 @@
+name: NameChangerPlugin
+main: xyz.devmeko.MCPlugin.NameChanger
+version: 1.0.0-SNAPSHOT
+author: TensorflowPepper
+commands:
+    nick:
+        description: Default Nick Command.
+    revert:
+        description: Reverts Your Nickname.

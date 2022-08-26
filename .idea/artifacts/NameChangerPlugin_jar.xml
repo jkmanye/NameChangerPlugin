@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NameChangerPlugin:jar">
+    <output-path>$PROJECT_DIR$/../../Server/plugins</output-path>
+    <root id="archive" name="NameChangerPlugin.jar">
+      <element id="module-output" name="NameChangerPlugin" />
+    </root>
+  </artifact>
+</component>
